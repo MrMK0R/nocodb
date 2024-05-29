@@ -12,6 +12,7 @@ import type {
 import BackblazePluginConfig from '~/plugins/backblaze';
 import DiscordPluginConfig from '~/plugins/discord';
 import GcsPluginConfig from '~/plugins/gcs';
+import IdrivePluginConfig from '~/plugins/idrive';
 import LinodePluginConfig from '~/plugins/linode';
 import MattermostPluginConfig from '~/plugins/mattermost';
 import MinioPluginConfig from 'src/plugins/minio';
